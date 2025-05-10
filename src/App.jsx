@@ -6,7 +6,7 @@ import Contact from "./pages/Contact";
 import Donate from "./pages/Donate";
 import GetInvolved from "./pages/GetInvolved";
 import About from "./pages/About";
-import logo from "./assets/images/gatoronly_darkmode.svg";
+import logo from "../public/assets/images/gatoronly_darkmode.svg";
 
 function App() {
   /*return (

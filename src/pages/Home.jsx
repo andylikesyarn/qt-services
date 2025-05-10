@@ -13,7 +13,7 @@ export default function Home() {
         >
           <li>
             <img
-              src="src/assets/images/initials_tricolor_notext.svg"
+              src="public/assets/images/initials_tricolor_notext.svg"
               alt="logo"
               style={{ height: "40rem" }}
             ></img>
